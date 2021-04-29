@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ppot1/OneDrive/Documents/Visual Studio 2015/Projects/NewGame4/Game4/Game4/Content/Font.spritefont</SourceFile>
+  <SourceTime>2019-12-05T19:17:33.6134189-05:00</SourceTime>
+  <DestFile>C:/Users/ppot1/OneDrive/Documents/Visual Studio 2015/Projects/NewGame4/Game4/Game4/Content/bin/Windows/Content/Font.xnb</DestFile>
+  <DestTime>2019-12-05T19:17:49.3447668-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

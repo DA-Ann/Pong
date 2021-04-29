@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ppot1/OneDrive/Documents/Visual Studio 2015/Projects/NewGame4/Game4/Game4/Content/ball.mp3</SourceFile>
+  <SourceTime>2019-12-06T13:23:42.9945487-05:00</SourceTime>
+  <DestFile>C:/Users/ppot1/OneDrive/Documents/Visual Studio 2015/Projects/NewGame4/Game4/Game4/Content/bin/Windows/Content/ball.xnb</DestFile>
+  <DestTime>2019-12-06T13:37:28.9220123-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/ppot1/OneDrive/Documents/Visual Studio 2015/Projects/NewGame4/Game4/Game4/Content/bin/Windows/Content/ball.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
